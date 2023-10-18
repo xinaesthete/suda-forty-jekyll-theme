@@ -5,6 +5,7 @@ email: ptr.tdd@gmail.com
 description: A small charity based in Winchester, supporting development around Sumbawanga, Tanzania
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
+## reminder: bundle exec jekyll serve
 # author:
 # street_address: 1234 Somewhere Road
 # city: Nashville
@@ -42,3 +43,5 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- elements.md
+- 404.md
